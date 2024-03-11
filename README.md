@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm currently participating in a project for my university
+- I'm currently learning python, especially in relation to machine learning
+- Ask me about anything
 
 <!--
 **Tenebrae311/Tenebrae311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
